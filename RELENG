@@ -1,0 +1,8 @@
+name: refactor-octo-pancake
+os: CentOS
+os_family: RedHat
+version: 1.0.0
+release: 1
+summary: example code
+description: Repository to use as a template for other repositories
+top_level_dir: template
